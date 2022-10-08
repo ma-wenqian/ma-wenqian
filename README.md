@@ -1,11 +1,34 @@
-### Hi there 👋
+# Welcome aboard my code station 🚀
+<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
-<!--
-**ma-wenqian/ma-wenqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a>
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true" />
+  </a>
+  
+  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-wenqian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Ma Wenqian.
 
-- 🔭 I’m currently working on ...
+### ✔️ I'm currently learning
+- PHP
+- Java
+
+### 😍 What i like to do:
+- I like challenges, learning, helping, sharing and living !!!
+
+### 💡 Goals for 2022:
+- Finish my first app on ios
+- Finish my first Wechat miniprogram
+
+### ⚡ Relevant achievement
+- [My blog](https://blog.mawenqian.com)
+
+### 🛠 Interested in:
+- Apple, design, video, sports.
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
